@@ -18,7 +18,7 @@ We are dedicated to fostering collaboration, education, and innovation in open s
 We welcome everyone who shares our passion for open source and security. Here's how you can participate:
 
 - **Contribute** - Check out our repositories and contribute to ongoing projects
-- **Connect** - Join our community discussions and events
+- **Connect** - Join our community discussions and events on [Discord](https://discord.gg/xKaFkRGvxq)
 - **Share** - Help spread awareness about open source and security in Africa
 
 ## License
