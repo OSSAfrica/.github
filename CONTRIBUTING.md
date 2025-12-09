@@ -36,8 +36,9 @@ By participating in this project, you agree to abide by our [Code of Conduct](CO
 
 If you need help or have questions:
 
-- Open a discussion in the repository
+- Open a discussion in this repository
 - Reach out to the maintainers
+- Create an issue in this repository if your question or request does not fit the discussion format
 
 ## Recognition
 
