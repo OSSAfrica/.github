@@ -76,7 +76,7 @@ Confidentiality and Handling
 
 All reports will be handled confidentially and shared only with those responsible for addressing the issue. OSSAfrica is committed to protecting reporters from retaliation and to treating all parties with fairness and respect.
 
-Response and Resolution
+### Response and Resolution
 
 The OSSAfrica Operations Team will acknowledge receipt of reports in a timely manner and will take appropriate action based on the information provided, following established community governance and enforcement procedures.
 
