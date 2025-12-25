@@ -49,6 +49,7 @@ When an incident does occur, it is important to report it promptly. If you exper
 
 ### Reporting Guidelines
 
+These guidelines describe what we expect from reports so that we can understand and address issues effectively. Reports should be made in good faith, focus on specific behaviors rather than assumptions about intent, and avoid personal attacks. We will treat all reports as confidentially as reasonably possible and share details only with those directly involved in responding to the incident.
 ### How to Report
 
 Reports should be sent to:
