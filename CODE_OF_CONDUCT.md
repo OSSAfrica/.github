@@ -1,4 +1,3 @@
-
 # Contributor Covenant 3.0 Code of Conduct
 
 ## Our Pledge
@@ -46,9 +45,9 @@ We agree to restrict the following behaviors in our community. Instances, threat
 
 Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
 
-When an incident does occur, it is important to report it promptly.
+When an incident does occur, it is important to report it promptly. If you experience or witness behavior that violates this Code of Conduct, we encourage you to report it as soon as possible.
 
-If you experience or witness behavior that violates this Code of Conduct, we encourage you to report it as soon as possible.
+### Reporting Guidelines
 
 ### How to Report
 
@@ -78,7 +77,7 @@ All reports will be handled confidentially and shared only with those responsibl
 
 ### Response and Resolution
 
-The OSSAfrica Operations Team will acknowledge receipt of reports in a timely manner and will take appropriate action based on the information provided, following established community governance and enforcement procedures.
+The Community Moderators will acknowledge receipt of reports in a timely manner and will take appropriate action based on the information provided, following established community governance and enforcement procedures.
 
 If you are uncertain whether an incident warrants a report, we encourage you to reach out for guidance.
 
