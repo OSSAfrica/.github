@@ -72,7 +72,7 @@ Location (e.g., GitHub repository, Discord channel, meeting, event)
 Names or usernames of individuals involved, if known
 Links, screenshots, or other relevant context
 
-Confidentiality and Handling
+### Confidentiality and Handling
 
 All reports will be handled confidentially and shared only with those responsible for addressing the issue. OSSAfrica is committed to protecting reporters from retaliation and to treating all parties with fairness and respect.
 
