@@ -50,7 +50,7 @@ When an incident does occur, it is important to report it promptly. To report a 
 
 If you experience or witness behavior that violates this Code of Conduct, we encourage you to report it as soon as possible.
 
-How to Report
+### How to Report
 
 Reports should be sent to:
 [operations@ossafrica.org](mailto:operations@ossafrica.org)
