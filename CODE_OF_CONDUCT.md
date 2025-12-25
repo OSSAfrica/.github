@@ -65,11 +65,11 @@ Anonymous reports are accepted. While anonymous reports may limit our ability to
 
 When submitting a report, please include as much information as you are able to provide:
 
-A clear description of the incident
-Date and time of occurrence
-Location (e.g., GitHub repository, Discord channel, meeting, event)
-Names or usernames of individuals involved, if known
-Links, screenshots, or other relevant context
+1. A clear description of the incident
+2. Date and time of occurrence
+3. Location (e.g., GitHub repository, Discord channel, meeting, event)
+4. Names or usernames of individuals involved, if known
+5. Links, screenshots, or other relevant context
 
 ### Confidentiality and Handling
 
