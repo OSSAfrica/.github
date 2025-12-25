@@ -80,7 +80,7 @@ Response and Resolution
 
 The OSSAfrica Operations Team will acknowledge receipt of reports in a timely manner and will take appropriate action based on the information provided, following established community governance and enforcement procedures.
 
-If you are uncertain whether an incident warrants a report, we encourage you to reach out for guidance.**
+If you are uncertain whether an incident warrants a report, we encourage you to reach out for guidance.
 
 Community Moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
 
