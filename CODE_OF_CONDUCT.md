@@ -62,7 +62,7 @@ Individuals directly affected by the incident or bystanders
 
 Anonymous reports are accepted. While anonymous reports may limit our ability to follow up, they will be reviewed and handled with the same care as all other reports.
 
-What to Include
+### What to Include
 
 When submitting a report, please include as much information as you are able to provide:
 
