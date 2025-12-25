@@ -77,7 +77,7 @@ All reports will be handled confidentially and shared only with those responsibl
 
 ### Response and Resolution
 
-The OSSAfrica Operations Team will acknowledge receipt of reports in a timely manner and will take appropriate action based on the information provided, following established community governance and enforcement procedures.
+The Community Moderators will acknowledge receipt of reports in a timely manner and will take appropriate action based on the information provided, following established community governance and enforcement procedures.
 
 If you are uncertain whether an incident warrants a report, we encourage you to reach out for guidance.
 
