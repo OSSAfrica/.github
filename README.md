@@ -1,4 +1,4 @@
-# OSS-Africa Community .github Repository
+# OSSAfrica Community .github Repository
 
 This is the community `.github` repository for **Open Source & Security Africa (OSSAfrica)**.
 
@@ -8,7 +8,7 @@ We are an emerging community of communities shining awareness on open source and
 
 ## What This Repository Contains
 
-This repository contains community health files that apply across all repositories in the OSS-Africa organization:
+This repository contains community health files that apply across all repositories in the OSSAfrica organization:
 
 - **CODE_OF_CONDUCT.md** - Our community standards and expectations
 - **CONTRIBUTING.md** - Guidelines for contributing to our projects
