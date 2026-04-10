@@ -23,6 +23,19 @@ We welcome everyone who shares our passion for open source and security. Here's 
 - **Meeting Minutes** - Stay informed about what’s happening through our open meeting [notes.](https://docs.google.com/document/d/1HFxCZpwlzxlOwIMHxh6M4I9PM34WRqdIGhXO6EYEr_c/edit?usp=sharing)
 - **Meeting Calender** - (TBD)
 
+## Social Media
+
+Follow OSSAfrica for updates, events, and announcements:
+
+- [LinkedIn](https://www.linkedin.com/company/ossafrica)
+- [Instagram](https://www.instagram.com/ossafrica)
+- [X (Twitter)](https://x.com/ossafrica_org)
+- [Mastodon](https://mastodon.social/)
+- [Bluesky](https://ossafrica.bsky.social)
+- [TikTok](https://www.tiktok.com/@ossafrica)
+- [Substack](https://substack.com/@ossafrica)
+- [WhatsApp Channel](https://whatsapp.com/channel/0029VbCVG4U23n3omcL1U20u)
+
 ## License
 
 Our projects are open source and licensed under the Apache License 2.0.
